@@ -1,2 +1,2 @@
-Milk,eggs,bread,apples,oranges
+Milk,eggs,bread,apples,oranges,lemon
 Bananas, sausages
