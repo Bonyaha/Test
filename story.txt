@@ -1,7 +1,2 @@
-<<<<<<< Updated upstream
-This is a lot of text inside the story.txt file.
-It can be multiple lines. Yeap
-=======
 This is a lot of text inside the story.txt file.Indeed.
 It can be multiple lines.
->>>>>>> Stashed changes
